@@ -1,0 +1,11 @@
+{
+    "name":"aligent/backenddefaultlanguage",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/aligent/Aoe_BackendDefaultLanguage",
+    "description":"Aoe_Backend Default Language with composer.json",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
+
